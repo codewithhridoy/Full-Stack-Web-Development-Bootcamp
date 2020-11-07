@@ -1,0 +1,51 @@
+h1{
+  text-align: center;
+}
+td{
+  height: 300px;
+  width: 200px;
+}
+.art{
+  margin: auto;
+}
+
+#one{
+  background-color: #DAD2DB;
+}
+
+#one:hover{
+  background-color: #A8201A;
+}
+
+#two{
+  background-color: #325FA2;
+}
+
+#two:hover{
+  background-color: #EC9A29;
+}
+
+
+#three{
+  background-color: #143642;
+}
+
+#three:hover{
+  background-color: pink;
+}
+
+#four{
+  background-color: #EC9A29;
+}
+
+#four:hover{
+  background-color: #325FA2;
+}
+
+#five{
+  background-color: #A8201A;
+}
+
+#five:hover{
+  background-color: #DAD2DB;
+}

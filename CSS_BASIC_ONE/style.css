@@ -1,0 +1,48 @@
+/* selected tag{
+  property: value;
+} */
+
+body{
+  background-color: pink;
+}
+
+h1{
+  border:2px solid;
+}
+h2{
+  color: red;
+}
+
+span p{
+  background: green;
+  text-align: center;
+}
+
+input{
+  border: 2px solid purple;
+}
+
+#textblock{
+  border: 5px solid grey;
+  width: 800px;
+  height: 400px;
+  margin-left: 300px;
+}
+
+ol li a{
+  color: red;
+}
+
+a:visited{
+  color: blue;
+}
+
+#one{
+  text-decoration: overline;
+  color: purple;
+}
+
+.exit{
+  background: blue;
+  border: 4px dashed yellow;
+}
